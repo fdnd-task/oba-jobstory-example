@@ -1,4 +1,4 @@
-# Zoek een boek bij de OBA
+# Zoek een boek in de OBA collectie
 
 Voor de opdracht Zoek-een-boek-bij-de-OBA leer je JSON data laden en tonen op een pagina.
 
