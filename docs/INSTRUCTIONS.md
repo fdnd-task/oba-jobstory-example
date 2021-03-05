@@ -3,12 +3,13 @@
 Voor de opdracht Zoek-een-boek-bij-de-OBA leer je JSON data laden en tonen op een pagina.
 
 ## Context
-        De context is hoe deze opdracht in de sprint past, welke leertaak het is en het niveau. Is het een voorbeeld in het college, een immitatietaak in een workshop, een experiment, of een zelfstandige taak voor een opdrachtgever?
+    De context is hoe deze opdracht in de sprint past, welke leertaak het is en welk [niveau](#niveau-van-een-leertaak) de leertaak heeft.
 
-Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. 
-Deze opdracht wordt voorgedaan in het college van sprint 8 "Keep Users in Control". Na dit voorbeeld ga je in een workshop zelf proberen data te laden in de opdracht [OBA - Zoek een spannend boek]().
+Leertaak: Werk voor een opdrachtgever een interactie uit met externe data.
+Deze opdracht wordt behandeld in het college van sprint 8 "Keep Users in Control". Dit is een [voorbeeld taak](#niveau-van-een-leertaak), hierna ga je in een workshop de leertaak zelf ontwerpen en maken in de opdracht [OBA - Zoek een spannend boek]().
 
 ## Briefing
+    In de briefing staat wat de opdracht is en wat de opdrachtgever wil. 
 
 Ontwerp en maak een zoekresultatenpagina voor de Openbare Bibliotheek Amsterdam (OBA).
 
@@ -19,14 +20,16 @@ Ontwerp en maak een zoekresultatenpagina voor de Openbare Bibliotheek Amsterdam 
 In deze taak krijg je een voorbeeld te zien hoe je met JS externe data kan laden en gebruiken om zoekresulaten te presenteren.
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
+*De werkwijze volgt de fasering van de [Development Life Cycle](#werkwijze-volgens-de-development-life-cycle).*
 
-Aan de hand van een Job Story gaan we met de OBA-API zoekresultaten tonen.
+Aan de hand van deze Job Story gaan we met de OBA-API zoekresultaten tonen.
 
 > "Als ik een boek zoek wil ik een lijst spannende boeken te zien krijgen, die geschikt zijn voor mijn leeftijd."
 
+Deze opdracht gata over de fases [analyseren](#analyseren), [ontwerpen](#ontwerpen) en [bouwen](#bouwen).
+
 ### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* 
+*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* .
 
 <details>
 <summary>Werkwijze</summary>
@@ -106,11 +109,9 @@ n.v.t.
 
 Meer over [Leertaken, complexiteit en begeleiding in Didactiek en toetsing](hhttps://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#leertaken)
 
-# Development Life Cycle Werkwijze
+# Werkwijze volgens de Development Life Cycle
 
-Bij FDND gebruiken we deze fasering van de Development Life Cycle. Leertaken kunnen een of meerdere fases doorlopen.
-
-## Development Life Cycle
+Bij FDND gebruiken we voor de werkwijze de fasering van de Development Life Cycle. Leertaken kunnen een of meerdere fases doorlopen.
 
 1. Analyse.
 2. Design.
