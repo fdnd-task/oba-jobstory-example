@@ -94,30 +94,7 @@ n.v.t.
 ## Criteria
 *Definitions of done*
 
-1. Je hebt gezien hoe de data wordt van een externe bron ingeladen met Javascript.
-2. Je hebt gezien hoe de zoekresultaten worden getoond in een webpagina.
-3. Je hebt gezien hoe *HTTP response status codes* kunnen worden gebruikt en vormgegeven.
+1. Je hebt een voorbeeld gezien van hoe data van een externe bron wordt geladen met Javascript.
+2. Je hebt een voorbeeld gezien van hoe de zoekresultaten worden getoond in een webpagina.
+3. Je hebt een voorbeeld gezien van hoe *HTTP response status codes* kunnen worden gebruikt en vormgegeven.
 
-# Niveau van een leertaak
-
-|   | Scaffolding | Description |
-| ---: | :----   | :--- |
-| a | Example | Uitgewerkt voorbeeld in het college |
-| b | Duplicate | Immitatietaak in een workshop |
-| c | Experiment | Taak zonder een specifiek doel |
-| d | Extension | Aanvultaak |
-| e | Autonomous | Taak zonder ondersteuning |
-
-Meer over [Leertaken, complexiteit en begeleiding in Didactiek en toetsing](hhttps://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#leertaken)
-
-# Werkwijze volgens de Development Life Cycle
-
-Bij FDND gebruiken we voor de werkwijze de fasering van de Development Life Cycle. Leertaken kunnen een of meerdere fases doorlopen.
-
-1. Analyse.
-2. Design.
-3. Bouwen.  
-4. Integreren.
-5. Testen.
-
-Meer over de [Development Life Cycle in Didactiek en toetsing](hhttps://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#development-life-cycle)
