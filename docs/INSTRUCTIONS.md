@@ -3,13 +3,14 @@
 Voor de opdracht Zoek-een-boek-bij-de-OBA leer je JSON data laden en tonen op een pagina.
 
 ## Context
-    De context is hoe deze opdracht in de sprint past, welke leertaak het is en welk [niveau](#niveau-van-een-leertaak) de leertaak heeft.
+    Wat schrijen we hier?
+    HHoe deze opdracht in de sprint past, welke leertaak het is en welk niveau de leertaak heeft?
 
 Leertaak: Werk voor een opdrachtgever een interactie uit met externe data.
 Deze opdracht wordt behandeld in het college van sprint 8 "Keep Users in Control". Dit is een [voorbeeld taak](#niveau-van-een-leertaak), hierna ga je in een workshop de leertaak zelf ontwerpen en maken in de opdracht [OBA - Zoek een spannend boek]().
 
 ## Briefing
-    In de briefing staat wat de opdracht is en wat de opdrachtgever wil. 
+*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
 Ontwerp en maak een zoekresultatenpagina voor de Openbare Bibliotheek Amsterdam (OBA).
 
@@ -85,7 +86,7 @@ Deze opdracht gata over de fases [analyseren](#analyseren), [ontwerpen](#ontwerp
 
 n.v.t.
 
-#### Testen
+### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
 n.v.t.
