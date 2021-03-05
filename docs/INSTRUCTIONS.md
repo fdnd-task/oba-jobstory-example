@@ -5,17 +5,20 @@ Voor de opdracht Zoek-een-boek-bij-de-OBA leer je JSON data laden en tonen op ee
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze leertaak hoort bij sprint 8 "Keep Users in Control". Dit is een voorbeeld taak en wordt behandeld in heht college. Hierna ga je in een workshop de leertaak zelf ontwerpen en maken in [OBA - Zoek een spannend boek]().
+Leertaak: Werk voor een opdrachtgever een interactie uit met externe data.
+Deze leertaak hoort bij sprint 8 "Keep Users in Control".
+Dit is een voorbeeld taak en wordt behandeld in heht college.
+Hierna ga je in een workshop de leertaak zelf ontwerpen en maken in [OBA - Zoek een spannend boek]().
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-Ontwerp en maak een zoekresultatenpagina voor de Openbare Bibliotheek Amsterdam (OBA).
+Ontwerp voor de OBA een zoekresultatenpagina.
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
-In deze taak krijg je een voorbeeld te zien hoe je met JS externe data kan laden en gebruiken om zoekresulaten te presenteren.
+Je krijgt een voorbeeld te zien hoe je met JS externe data kan laden en gebruiken om zoekresulaten te presenteren.
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
