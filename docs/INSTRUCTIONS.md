@@ -4,7 +4,7 @@ Voor de opdracht Zoek-een-boek-bij-de-OBA leer je JSON data laden en tonen op ee
 
 ## Context
     Wat schrijen we hier?
-    HHoe deze opdracht in de sprint past, welke leertaak het is en welk niveau de leertaak heeft?
+    Hoe deze opdracht in de sprint past, welke leertaak het is en welk niveau de leertaak heeft?
 
 Leertaak: Werk voor een opdrachtgever een interactie uit met externe data.
 Deze opdracht wordt behandeld in het college van sprint 8 "Keep Users in Control". Dit is een [voorbeeld taak](#niveau-van-een-leertaak), hierna ga je in een workshop de leertaak zelf ontwerpen en maken in de opdracht [OBA - Zoek een spannend boek]().
