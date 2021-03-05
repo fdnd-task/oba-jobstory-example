@@ -27,7 +27,7 @@ Aan de hand van deze Job Story gaan we met de OBA-API zoekresultaten tonen.
 
 > "Als ik een boek zoek wil ik een lijst spannende boeken te zien krijgen, die geschikt zijn voor mijn leeftijd."
 
-Deze opdracht gata over de fases [analyseren](#analyseren), [ontwerpen](#ontwerpen) en [bouwen](#bouwen).
+Deze opdracht gaat over de fases [analyseren](#analyseren), [ontwerpen](#ontwerpen) en [bouwen](#bouwen).
 
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* .
