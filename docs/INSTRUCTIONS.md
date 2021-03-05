@@ -3,7 +3,7 @@
 Voor de opdracht Zoek-een-boek-bij-de-OBA leer je JSON data laden en tonen op een pagina.
 
 ## Context
-    Wat schrijen we hier?
+    Wat schrijven we hier?
     Hoe deze opdracht in de sprint past, welke leertaak het is en welk niveau de leertaak heeft?
 
 Leertaak: Werk voor een opdrachtgever een interactie uit met externe data.
@@ -16,7 +16,7 @@ Ontwerp en maak een zoekresultatenpagina voor de Openbare Bibliotheek Amsterdam 
 
 ## Doel van deze opdracht
     Wat schrijven we hier?
-    Wat leren de studenten relatie tot de focus van deze sprint.
+    Wat leren de studenten relatie tot de focus van deze sprint?
 
 In deze taak krijg je een voorbeeld te zien hoe je met JS externe data kan laden en gebruiken om zoekresulaten te presenteren.
 
