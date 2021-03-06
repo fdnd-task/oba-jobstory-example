@@ -41,7 +41,7 @@ Deze opdracht gaat over de fases [analyseren](#analyseren), [ontwerpen](#ontwerp
 
 #### Materiaal
 
-- [Presentatie Wat is JSON data](content-audit.pdf)
+- [Presentatie Wat is JSON data](Content-Audit.pdf)
 - [JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 - [OBA-API documentatie](https://zoeken.oba.nl/api/v1/)
 
