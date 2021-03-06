@@ -7,7 +7,7 @@ Voor de opdracht Zoek-een-boek-bij-de-OBA leer je JSON data laden en tonen op ee
 
 Leertaak: Werk voor een opdrachtgever een interactie uit met externe data.
 Deze leertaak hoort bij sprint 8 "Keep Users in Control".
-Dit is een voorbeeld taak en wordt behandeld in heht college.
+Dit is een voorbeeld taak en wordt behandeld in het college.
 Hierna ga je in een workshop de leertaak zelf ontwerpen en maken in [OBA - Zoek een spannend boek]().
 
 ## Briefing
