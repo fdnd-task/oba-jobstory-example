@@ -60,6 +60,7 @@ Deze opdracht gaat over de fases [analyseren](#analyseren), [ontwerpen](#ontwerp
 #### Materiaal
 
 - Break-down schets maken
+- [Schetsvaardigheden oefenen](https://www.youtube.com/channel/UCdVXQjEmKQJbEhClP94mX3Q)
 
 </details>
 
